@@ -1,4 +1,4 @@
-# groupy_translate
+#giphyme_translate
 Small framework that allows the Giphy translate API to be used in GroupMe.  When "/giphy" followed by some keywords are sent to the group, a random gif related to those keywords is posted by a bot.  Ex. "/giphy tiger woods" returns tiger woods related .gifs.
 
 Giphy api info regarding translate function found here: https://api.giphy.com/
