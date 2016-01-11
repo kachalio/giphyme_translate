@@ -39,9 +39,9 @@ print(rawGIF)
 #webbrowser.open(rawGIF)
 
 #Helt Texas
-#data = { 'bot_id' : '34075572db14f4ffa5336016ff', 'text': rawGIF} 
+#data = { 'bot_id' : 'KEY', 'text': rawGIF} 
 #Testgroup
-#data = { 'bot_id' : 'b3c359551def377083964974d8', 'text': rawGIF}
+#data = { 'bot_id' : 'KEY', 'text': rawGIF}
 #r =  requests.post(botpost, data=data)
 
 ###################
@@ -49,7 +49,7 @@ print(rawGIF)
 ###################
 #Constants
 GROUPMEHOST = 'https://api.groupme.com/v3'
-GROUPMEKEY = '?token=10cc7dc05b6201334b7a0d9a2d16c1db'
+GROUPMEKEY = '?token=KEY'
 
 #Returns list of all group id's
 def getGroupIDs():
